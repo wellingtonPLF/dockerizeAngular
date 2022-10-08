@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Docker server
 
-#### Run by using:
+#### ➼ &nbsp;Run by using:
 ```bash
 docker-compose up -d
 ```
