@@ -1,0 +1,11 @@
+.docker-screen{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    height: 90vh;
+    text-align: center;
+}
+
+.docker-screen div::selection, img::selection{
+    background-color: unset;
+}
